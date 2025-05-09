@@ -1,1 +1,1 @@
-# Simple-Rag-Project
+# Simple-RAG-Project
